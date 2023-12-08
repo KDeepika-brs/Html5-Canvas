@@ -6,12 +6,12 @@
 #### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Html5-Canvas/).
 
 # Concepts that are used in this project are 
-Variables
-Literals
-Functions
-Constants
-Comparisons
-Conditional Statements
-Arrows
-Logical Statements 
-Methods
+###### Variables
+###### Literals
+###### Functions
+###### Constants
+###### Comparisons
+###### Conditional Statements
+###### Arrows
+###### Logical Statements 
+###### Methods
